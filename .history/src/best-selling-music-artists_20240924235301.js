@@ -50,7 +50,7 @@ export const artists = [
 
     {
         name: "Kehlani",
-        photo_url: "https://yt3.googleusercontent.com/Rlz8Ss75sQoLpAiPZddueZPiSkPph4LIs1Zk5NprRcqP5KctkLfGqn4iGhv_YaXB3CwvJX0pAg=s900-c-k-c0x00ffffff-no-r",
+        photo_url: "https://yt3.googleusercontent.com/Rlz8Ss75sQoLpAiPZddueZPiSkPph4LIs1Zk5NprRcqP5KctkLfGqn4iGhv_YaXB3CwvJX0pAg=s900-c-k-c0x00ffffff-no-rj",
         country: "United States",
         years_active: "2009–present",
     },
