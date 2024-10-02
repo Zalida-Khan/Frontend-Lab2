@@ -19,12 +19,6 @@
     padding: 20px;
 }
 
-h1 {
-    font-family: 'Bright Melody Display';
-    font-size: 3em;
-    color: rgb(60, 35, 35);
-    margin-bottom: 20px;
-}
 
 .artist-list {
     display: flex;
