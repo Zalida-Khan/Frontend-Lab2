@@ -80,12 +80,11 @@ h1 {
 }
 
 .footer {
-    width: 70%;
     color: rgb(83, 51, 46);
-    margin: 0 auto;
-    padding: 5px;
+    text-align: center;
+    padding: 20px;
     border-radius: 40px;
     margin-top: 30px;
     background-color: rgb(241, 233, 222);
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
