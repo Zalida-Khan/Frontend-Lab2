@@ -21,7 +21,7 @@
 
 h1 {
     font-family: 'Bright Melody Display', sans-serif;
-    font-size: 3em;
+    font-size: 3.5em;
     color: rgb(60, 35, 35);
     margin-bottom: 30px;
 }
@@ -80,12 +80,20 @@ h1 {
 }
 
 .footer {
-    width: 70%;
+    width: 90%;
     color: rgb(83, 51, 46);
     margin: 0 auto;
-    padding: 5px;
+    max-width: 1000px;
+    padding: 20px;
     border-radius: 40px;
+    align-items: center;
     margin-top: 30px;
     background-color: rgb(241, 233, 222);
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.7em;
+    }
 }
