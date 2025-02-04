@@ -50,7 +50,7 @@ export const artists = [
 
     {
         name: "Kehlani",
-        photo_url: "https://yt3.googleusercontent.com/Rlz8Ss75sQoLpAiPZddueZPiSkPph4LIs1Zk5NprRcqP5KctkLfGqn4iGhv_YaXB3CwvJX0pAg=s900-c-k-c0x00ffffff-no-r",
+        photo_url: "https://media.allure.com/photos/65382b91053392439ad41bf5/1:1/w_1188,h_1188,c_limit/kehlani%20pink%20red%20pixie%20cut.jpg",
         country: "United States",
         years_active: "2009–present",
     },
